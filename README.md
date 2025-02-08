@@ -19,12 +19,20 @@ Please note that the main task for this project is located on the `master` branc
    git checkout master
 
 Features
+
 User-friendly interface for taking quizzes
+
 Score tracking
+
 Multiple choice questions
+
 Installation
+
+
 To run the Quiz App locally, follow these steps:
 
 Clone this repository.
+
 Install the necessary dependencies.
+
 Start the application.   
