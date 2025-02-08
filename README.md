@@ -18,6 +18,12 @@ Please note that the main task for this project is located on the `master` branc
 3. Switch to the master branch:
    git checkout master
 
+## Live Demo
+You can access the deployed version of the Quiz App at the following link:
+
+[Quiz App Live Demo](https://elochukwuorji.github.io/QuizApp/)
+
+
 **Features**
 
 User-friendly interface for taking quizzes
