@@ -18,7 +18,7 @@ Please note that the main task for this project is located on the `master` branc
 3. Switch to the master branch:
    git checkout master
 
-Features
+**Features**
 
 User-friendly interface for taking quizzes
 
@@ -29,7 +29,7 @@ Multiple choice questions
 Installation
 
 
-To run the Quiz App locally, follow these steps:
+**To run the Quiz App locally, follow these steps:**
 
 Clone this repository.
 
